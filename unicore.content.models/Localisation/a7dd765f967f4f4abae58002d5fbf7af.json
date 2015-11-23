@@ -2,14 +2,14 @@
   "uuid": "a7dd765f967f4f4abae58002d5fbf7af", 
   "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "spa_CO", 
-  "image": "7a9df392ec3743a0bbfdd7a527f59cc0", 
+  "image": "b5a8bf832c1b4894b20b0daaf5a979c8", 
   "logo_text": "", 
   "logo_image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "logo_description": "", 
